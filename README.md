@@ -24,7 +24,7 @@ Here are some projects I've worked on:
 
 ## Get in Touch
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/yusef-pasha-806675200) for collaboration or if you have any questions about my projects or skills.
+Feel free to reach out to me on [LinkedIn](https://github.com/yusefpasha/yusefpasha/blob/main/www.linkedin.com/in/yusef-pasha-806675200) for collaboration or if you have any questions about my projects or skills.
 
 
 <!--
